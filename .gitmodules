@@ -1,0 +1,6 @@
+[submodule "refs/ida-sdk"]
+	path = refs/ida-sdk
+	url = https://github.com/HexRaysSA/ida-sdk.git
+[submodule "refs/ida-domain"]
+	path = refs/ida-domain
+	url = https://github.com/HexRaysSA/ida-domain.git
